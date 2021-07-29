@@ -1,0 +1,27 @@
+{
+  "name": "amadeusu",
+  "version": "0.0.1",
+  "description": "amadeusu",
+  "main": "bot.js",
+  "author": "",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "*",
+    "lodash.flatten": "^4.4.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "request": "^2.88.2",
+    "urllib": "^2.37.0",
+    "yandex-images": "^1.0.7"
+  }
+}
